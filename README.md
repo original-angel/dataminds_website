@@ -1,7 +1,7 @@
 I'm working on translating and editing the website created by ClaudeAI. 
 Main tasks: 
-1) Find fonds for cyrillic languages 
-2) Make CSS file separate from Google servers 
+1) Find fonts for cyrillic languages 
+2) Make a separate CSS file  
 3) Translate the whole page
 4) Edit code to be cleaner 
 5) Create a separate Russian page
